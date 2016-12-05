@@ -39,7 +39,7 @@ import org.springframework.web.multipart.MultipartFile;
  *
  *     수정일         수정자                   수정내용
  *     -------          --------        ---------------------------
- *   2009.02.13       이삼섭                  최초 생성
+ *   2009.02.13       이삼십                  최초 생성
  *   2011.08.09       서준식                  utl.fcc패키지와 Dependency제거를 위해 getTimeStamp()메서드 추가
  * @author 공통 서비스 개발팀 이삼섭
  * @since 2009. 02. 13
